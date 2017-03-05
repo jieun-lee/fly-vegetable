@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FlyVegetable:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FlyVegetable_jar</output-path>
+    <root id="archive" name="FlyVegetable.jar">
+      <element id="module-output" name="FlyVegetable" />
+    </root>
+  </artifact>
+</component>
