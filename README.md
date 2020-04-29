@@ -10,3 +10,4 @@
 ### JavaScript Version:
 * See code in JavaScript folder.
 * Open main.html, and it will use script.js to run the game.
+* You can play this in your browser [here](https://jieun-lee.github.io/fly-vegetable/JavaScript/main.html)
